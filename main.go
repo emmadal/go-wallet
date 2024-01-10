@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/emmadal/gowallet/operation"
+	"github.com/emmadal/gowallet/wallet/operation"
 	"log"
 )
 
